@@ -15,8 +15,8 @@ module versions.
 
 This library has not specifically been designed to be easily extensible/reusable for
 different types of displays - nor does it support any of the LCD-features that I do not use
-myself (e.g. scrolling, blinking, customized chars, etc). The no frills functionality is limited to
-displaying characters within the fixed visible 16x2 area of the display.
+myself (e.g. scrolling, blinking, customized chars, etc are not implemented). The no frills 
+functionality is limited to displaying characters within the fixed visible 16x2 area of the display.
 
 There are plenty of other more generic and also more functionally comprehensive LCD libraries available
 and if you are happy with their respective licensing then you might want to check those out.
@@ -25,10 +25,12 @@ Personally I prefer to NOT use anything that comes with a shitty GPL license as 
 for my work. (I don't like GPL for the same reason that I don't hand out blanko checks.)
 Since I didn't find anything acceptable, I decided to write my own MickyMouse LCD library 
 instead. (I feel that it would be stupid to let some trivial functionality library - 
-like this one - dictate the licenses that you can or cannot use for your own work..)
+like this one - dictate the licenses that I can or cannot use for my own work.. in particular
+regarding potential commercial exploitation of my work.)
 
 Copyright (C) 2018 Juergen Wothke
 
 ## License
-Terms of Use: This software is licensed under a CC BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Terms of Use: This software is licensed under a CC BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/). Commercial
+licenses available on request. 
 	
