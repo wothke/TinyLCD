@@ -32,7 +32,7 @@ for my work. (I don't like GPL for the same reason that I don't hand out blanko 
 Since I didn't find anything acceptable, I decided to write my own MickyMouse LCD library 
 instead. (I feel that it would be stupid to let some trivial functionality library - 
 like this one - dictate the licenses that I can or cannot use for my own work.. in particular
-regarding potential commercial exploitation of my work.)
+regarding potential commercial exploitation of my work by 3rd parties.)
 
 Copyright (C) 2018 Juergen Wothke
 
